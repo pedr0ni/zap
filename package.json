@@ -1,0 +1,27 @@
+{
+  "name": "zap",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp wrapper for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedr0ni/zap.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Linux"
+  ],
+  "author": "M. Pedroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedr0ni/zap/issues"
+  },
+  "homepage": "https://github.com/pedr0ni/zap#readme",
+  "dependencies": {
+    "electron": "^4.1.1"
+  }
+}
