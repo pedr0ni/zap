@@ -4,10 +4,7 @@ A simple WhatsApp wrapper for Linux
 
 ## Installation
 
-* Clone this repository
-```
-$ git clone https://github.com/pedr0ni/zap.git
-```
+* Download the latest release from Releases tab
 
 * Copy the folder dist/zap to /usr/share or /opt/
 Note: if you want to copy to the /opt/ directory you'll need to change the Exec desktop entry on the next step
